@@ -84,7 +84,7 @@
 
     .card-img-placeholder {
       width: 100%;
-      height: 130px;
+      height: 140px;
       background: #12181f;
       border-radius: 12px;
       display: flex;
@@ -93,20 +93,21 @@
       margin-bottom: 10px;
       color: var(--text-muted);
       font-size: 32px;
+      overflow: hidden;
+    }
+
+    .card-img-placeholder img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
 
     .card-title {
-      font-size: 14px;
+      font-size: 12px;
       font-weight: 600;
       margin-bottom: 6px;
       line-height: 1.3;
-    }
-
-    .card-desc {
-      font-size: 11px;
-      color: var(--text-muted);
-      margin-bottom: 10px;
-      line-height: 1.3;
+      min-height: 32px;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
@@ -117,11 +118,11 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-top: auto;
+      margin-top: 10px;
     }
 
     .price {
-      font-size: 15px;
+      font-size: 13px;
       font-weight: 800;
       color: var(--accent);
     }
@@ -130,10 +131,10 @@
       background: var(--accent);
       color: #0b0c10;
       border: none;
-      padding: 8px 12px;
+      padding: 8px 10px;
       border-radius: 10px;
       font-weight: 700;
-      font-size: 12px;
+      font-size: 11px;
       cursor: pointer;
       transition: background 0.2s, transform 0.1s;
     }
@@ -166,17 +167,20 @@
 
   <script>
     const tg = window.Telegram.WebApp;
-    tg.expand(); // Разворачивает приложение на весь экран
+    tg.expand();
 
-    // Список ваших товаров
+    // Список всех товаров с готовыми фото
     const products = [
-      { id: 1, name: "Футболка Gucci White", price: "По запросу", desc: "Белая минималистичная футболка Gucci." },
-      { id: 2, name: "Лонгслив Skull White", price: "По запросу", desc: "Белый лонгслив с принтом черепа." },
-      { id: 3, name: "Футболка Halloween Oct 30", price: "По запросу", desc: "Черная футболка с принтом Halloween." },
-      { id: 4, name: "Футболка Undercover", price: "1400 ₽", desc: "Белая футболка с принтом." },
-      { id: 5, name: "Andy Warhol Hysteric Glamour", price: "1300 ₽", desc: "Серая футболка двусторонняя." },
-      { id: 6, name: "Hysteric Glamour Bear", price: "1450 ₽", desc: "Белая футболка с медведем." },
-      { id: 7, name: "Undercover Windbreaker", price: "3500 ₽", desc: "Чоткая зипка с капюшоном." }
+      { id: 1, name: "Gucci Logo-Embroidered T-Shirt", price: "1400 ₴", img: "http://googleusercontent.com/image_collection/image_retrieval/5898204014000550699" },
+      { id: 2, name: "Number Nine Birds V-Crewneck T-Shirt", price: "1350 ₴", img: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500" },
+      { id: 3, name: "Hysteric Glamour Skullberry White Longsleeve", price: "1550 ₴", img: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500" },
+      { id: 4, name: "Andy Warhol by Hysteric Glamour T-Shirt", price: "1350 ₴", img: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500" },
+      { id: 5, name: "Andy Warhol by Hysteric Glamour Black T-Shirt", price: "1350 ₴", img: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500" },
+      { id: 6, name: "Undercover T-Shirt", price: "1400 ₴", img: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500" },
+      { id: 7, name: "Andy Warhol by Hysteric Glamour Grey T-Shirt", price: "1300 ₴", img: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500" },
+      { id: 8, name: "Hysteric Glamour Grateful Dead Bear T-Shirt", price: "1450 ₴", img: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500" },
+      { id: 9, name: "Undercover Chuuut! Windbreaker", price: "3500 ₴", img: "https://images.unsplash.com/photo-1544441893-675973e31985?w=500" },
+      { id: 10, name: "Hysteric Glamour Bear Hys T-Shirt", price: "1500 ₴", img: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500" }
     ];
 
     const container = document.getElementById("catalog");
@@ -184,24 +188,26 @@
     products.forEach((prod, index) => {
       const card = document.createElement("div");
       card.className = "card";
-      card.style.animationDelay = `${index * 0.08}s`;
+      card.style.animationDelay = `${index * 0.05}s`;
+
+      const imgContent = prod.img 
+        ? `<img src="${prod.img}" alt="${prod.name}">`
+        : `<i class="fa-solid fa-shirt"></i>`;
 
       card.innerHTML = `
         <div class="card-img-placeholder">
-          <i class="fa-solid fa-shirt"></i>
+          ${imgContent}
         </div>
         <div class="card-title">${prod.name}</div>
-        <div class="card-desc">${prod.desc}</div>
         <div class="card-bottom">
           <div class="price">${prod.price}</div>
-          <button class="buy-btn" onclick="order('${prod.name}')">Купить</button>
+          <button class="buy-btn" onclick="order('${prod.name}')">Заказать</button>
         </div>
       `;
       container.appendChild(card);
     });
 
     function order(productName) {
-      // При клике на "Купить" перенаправляет прямо в диалог заказа
       tg.openTelegramLink("https://t.me/clotherapy");
     }
   </script>
