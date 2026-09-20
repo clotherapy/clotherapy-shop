@@ -12,13 +12,13 @@
   "pay": {
    "card": {
     "on": true,
-    "number": "",
+    "number": "5168 7520 2498 6484",
     "holder": "",
     "note": ""
    },
    "link": {
-    "on": false,
-    "url": "",
+    "on": true,
+    "url": "https://www.privat24.ua/send/k1jx4",
     "label": "Оплатить картой онлайн"
    },
    "cod": {
@@ -31,7 +31,7 @@
   {
    "desc": "",
    "photos": [
-    "img/gucci-logo-tee-muaeftf70.jpg"
+    "img/gucci-logo-tee-muaeicm40.jpg"
    ],
    "sizes": [
     {
@@ -52,8 +52,8 @@
   {
    "desc": "",
    "photos": [
-    "https://i.postimg.cc/4d9YZ5hb/photo-2026-08-29-15-03-23.jpg",
-    "https://i.postimg.cc/2yNV5ZQR/photo-2026-08-29-15-03-24.jpg"
+    "img/nn-birds-vneck-tee-muaeicm40.jpg",
+    "img/nn-birds-vneck-tee-muaeicm41.jpg"
    ],
    "sizes": [
     {
@@ -73,7 +73,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/hg-skullberry-ls-muaeicm40.jpg",
+    "img/hg-skullberry-ls-muaeicm41.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -92,7 +95,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/warhol-hg-tee-m1-muaeicm40.jpg",
+    "img/warhol-hg-tee-m1-muaeicm51.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -111,7 +117,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/warhol-hg-tee-m2-muaeicm50.jpg",
+    "img/warhol-hg-tee-m2-muaeicm51.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -130,7 +139,11 @@
   },
   {
    "desc": "Можно носить наизнанку: внутри принт с разноцветным рисунком.",
-   "photos": [],
+   "photos": [
+    "img/warhol-hg-tee-s-muaeicm50.jpg",
+    "img/warhol-hg-tee-s-muaeicm51.jpg",
+    "img/warhol-hg-tee-s-muaeicm52.jpg"
+   ],
    "sizes": [
     {
      "s": "S",
@@ -149,7 +162,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/undercover-tee-muaeicm50.jpg",
+    "img/undercover-tee-muaeicm51.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -168,7 +184,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/hg-grateful-dead-bear-tee-muaeicm50.jpg",
+    "img/hg-grateful-dead-bear-tee-muaeicm51.jpg"
+   ],
    "sizes": [
     {
      "s": "S",
@@ -192,7 +211,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/undercover-chuuut-windbreaker-muaeicm50.jpg",
+    "img/undercover-chuuut-windbreaker-muaeicm51.jpg"
+   ],
    "sizes": [
     {
      "s": "2",
@@ -211,7 +233,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/hg-bear-hys-tee-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -230,7 +254,10 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/vw-world-tour-tee-muaeicm50.jpg",
+    "img/vw-world-tour-tee-muaeicm51.jpg"
+   ],
    "sizes": [
     {
      "s": "L",
@@ -249,26 +276,9 @@
   },
   {
    "desc": "",
-   "photos": [],
-   "sizes": [
-    {
-     "s": "42/43",
-     "m": "",
-     "av": false
-    }
+   "photos": [
+    "img/sold-373-muaeicm50.jpg"
    ],
-   "type": "кроссовки",
-   "cond": "new",
-   "status": "sold",
-   "tgPost": "https://t.me/clotherapy/364",
-   "id": "sold-364",
-   "brand": "Balenciaga",
-   "name": "Balenciaga Track 3",
-   "price": 0
-  },
-  {
-   "desc": "",
-   "photos": [],
    "sizes": [
     {
      "s": "40",
@@ -287,7 +297,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-320-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "M, L",
@@ -306,7 +318,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-340-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "3",
@@ -325,7 +339,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-349-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -344,7 +360,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-263-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "2",
@@ -363,7 +381,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-285-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "3",
@@ -382,7 +402,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-287-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -401,7 +423,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-304-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "3",
@@ -420,7 +444,9 @@
   },
   {
    "desc": "",
-   "photos": [],
+   "photos": [
+    "img/sold-301-muaeicm50.jpg"
+   ],
    "sizes": [
     {
      "s": "1",
