@@ -1,0 +1,438 @@
+{
+ "version": 1,
+ "updated": "2026-09-20",
+ "settings": {
+  "shopName": "clotherapy",
+  "tg": "godselection",
+  "channel": "clotherapy",
+  "reviews": "https://t.me/+XBxYgwu2eJxiZWRi",
+  "olx": "https://www.olx.ua/list/user/CvC8O/",
+  "currency": "₴",
+  "shipNote": "Доставка по тарифам перевозчика. Отправляю по Украине и в страны ЕС.",
+  "pay": {
+   "card": {
+    "on": true,
+    "number": "",
+    "holder": "",
+    "note": ""
+   },
+   "link": {
+    "on": false,
+    "url": "",
+    "label": "Оплатить картой онлайн"
+   },
+   "cod": {
+    "on": true,
+    "note": "Оплата при получении в отделении Новой Почты."
+   }
+  }
+ },
+ "products": [
+  {
+   "desc": "",
+   "photos": [
+    "img/gucci-logo-tee-muaeftf70.jpg"
+   ],
+   "sizes": [
+    {
+     "s": "XS",
+     "m": "длина 69 · бюст 55",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/283",
+   "id": "gucci-logo-tee",
+   "brand": "Gucci",
+   "name": "Gucci Logo-Embroidered T-Shirt",
+   "price": 1400
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "2",
+     "m": "длина 63 · ширина 51",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/302",
+   "id": "nn-birds-vneck-tee",
+   "brand": "Number Nine",
+   "name": "Number Nine Birds V-Crewneck T-Shirt",
+   "price": 1350
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длина 63–64 · бюст 48 · ширина 39",
+     "av": true
+    }
+   ],
+   "type": "лонгслив",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/306",
+   "id": "hg-skullberry-ls",
+   "brand": "Hysteric Glamour",
+   "name": "Hysteric Glamour Skullberry White Longsleeve",
+   "price": 1550
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длина 65 · бюст 48",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/316",
+   "id": "warhol-hg-tee-m1",
+   "brand": "Hysteric Glamour",
+   "name": "Andy Warhol by Hysteric Glamour T-Shirt",
+   "price": 1350
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длина 66 · бюст 47",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/318",
+   "id": "warhol-hg-tee-m2",
+   "brand": "Hysteric Glamour",
+   "name": "Andy Warhol by Hysteric Glamour T-Shirt",
+   "price": 1350
+  },
+  {
+   "desc": "Можно носить наизнанку: внутри принт с разноцветным рисунком.",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "S",
+     "m": "длина 63 · бюст 44",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/342",
+   "id": "warhol-hg-tee-s",
+   "brand": "Hysteric Glamour",
+   "name": "Andy Warhol by Hysteric Glamour T-Shirt",
+   "price": 1300
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длина 69 · бюст 52",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/345",
+   "id": "undercover-tee",
+   "brand": "Undercover",
+   "name": "Undercover T-Shirt",
+   "price": 1400
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "S",
+     "m": "длина 64 · бюст 45",
+     "av": true
+    },
+    {
+     "s": "L",
+     "m": "длина 68 · бюст 50",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/347",
+   "id": "hg-grateful-dead-bear-tee",
+   "brand": "Hysteric Glamour",
+   "name": "Hysteric Glamour Grateful Dead Bear T-Shirt",
+   "price": 1450
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "2",
+     "m": "длина 70 · бюст 55",
+     "av": true
+    }
+   ],
+   "type": "ветровка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/351",
+   "id": "undercover-chuuut-windbreaker",
+   "brand": "Undercover",
+   "name": "Undercover Chuuut! Windbreaker",
+   "price": 3500
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длина 72 · бюст 60",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/354",
+   "id": "hg-bear-hys-tee",
+   "brand": "Hysteric Glamour",
+   "name": "Hysteric Glamour Bear Hys T-Shirt",
+   "price": 1500
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "L",
+     "m": "длина спереди 68 · сзади 72 · бюст 60",
+     "av": true
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "in",
+   "tgPost": "https://t.me/clotherapy/355",
+   "id": "vw-world-tour-tee",
+   "brand": "Vivienne Westwood",
+   "name": "Vivienne Westwood World Tour T-Shirt",
+   "price": 1500
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "42/43",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "кроссовки",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/364",
+   "id": "sold-364",
+   "brand": "Balenciaga",
+   "name": "Balenciaga Track 3",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "40",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "кроссовки",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/373",
+   "id": "sold-373",
+   "brand": "Rick Owens",
+   "name": "Rick Owens Distressed Ramones",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M, L",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "худи",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/320",
+   "id": "sold-320",
+   "brand": "Vetements",
+   "name": "Vetements Antwerpen Deconstructed Hoodie",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "3",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "лонгслив",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/340",
+   "id": "sold-340",
+   "brand": "Undercover",
+   "name": "Undercover The Amazing Tale Of Zamiang Longsleeve",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "худи",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/349",
+   "id": "sold-349",
+   "brand": "Hysteric Glamour",
+   "name": "Hysteric Glamour NewYork Dolls Zip-Hoodie",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "2",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "джинсы",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/263",
+   "id": "sold-263",
+   "brand": "Undercover",
+   "name": "Undercover Bug Denim",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "3",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/285",
+   "id": "sold-285",
+   "brand": "Number Nine",
+   "name": "Number Nine “Time Migration” Cigarettes!",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "M",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "лонгслив",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/287",
+   "id": "sold-287",
+   "brand": "Hysteric Glamour",
+   "name": "Hysteric Glamour Longsleeve",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "3",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "лонгслив",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/304",
+   "id": "sold-304",
+   "brand": "Number Nine",
+   "name": "Number Nine Birds V-Crewneck Longsleeve",
+   "price": 0
+  },
+  {
+   "desc": "",
+   "photos": [],
+   "sizes": [
+    {
+     "s": "1",
+     "m": "",
+     "av": false
+    }
+   ],
+   "type": "футболка",
+   "cond": "new",
+   "status": "sold",
+   "tgPost": "https://t.me/clotherapy/301",
+   "id": "sold-301",
+   "brand": "Undercover",
+   "name": "Undercover x Comme des Garçons T-Shirt",
+   "price": 0
+  }
+ ]
+}
