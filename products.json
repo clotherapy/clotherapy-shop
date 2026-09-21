@@ -29,6 +29,52 @@
  },
  "products": [
   {
+   "id": "gucci-gucci-chateau-marmont-sweatshirt-ibv9",
+   "brand": "Gucci",
+   "name": "Gucci Chateau Marmont Sweatshirt",
+   "type": "свитшот",
+   "price": 3600,
+   "cond": "new",
+   "status": "in",
+   "desc": "",
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длинна 70 ширина 57",
+     "av": true
+    }
+   ],
+   "photos": [
+    "img/gucci-gucci-chateau-marmont-sweatshirt-ibv9-muazjihv0.jpg",
+    "img/gucci-gucci-chateau-marmont-sweatshirt-ibv9-muazjihv1.jpg"
+   ],
+   "tgPost": "https://t.me/clotherapy/412",
+   "payUrl": ""
+  },
+  {
+   "id": "gucci-gucci-chateau-marmont-hoodie-38e7",
+   "brand": "Gucci",
+   "name": "Gucci Chateau Marmont Hoodie",
+   "type": "худи",
+   "price": 4200,
+   "cond": "new",
+   "status": "in",
+   "desc": "",
+   "sizes": [
+    {
+     "s": "M",
+     "m": "длинна 70 ширина 54",
+     "av": true
+    }
+   ],
+   "photos": [
+    "img/gucci-gucci-chateau-marmont-hoodie-38e7-muazjihv0.jpg",
+    "img/gucci-gucci-chateau-marmont-hoodie-38e7-muazjihv1.jpg"
+   ],
+   "tgPost": "https://t.me/clotherapy/414",
+   "payUrl": ""
+  },
+  {
    "desc": "",
    "photos": [
     "img/gucci-logo-tee-muawscw00.jpg"
