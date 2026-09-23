@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-09-21",
+ "updated": "2026-09-23",
  "settings": {
   "shopName": "clotherapy",
   "tg": "godselection",
@@ -29,14 +29,11 @@
  },
  "products": [
   {
-   "id": "gucci-gucci-chateau-marmont-sweatshirt-ibv9",
-   "brand": "Gucci",
-   "name": "Gucci Chateau Marmont Sweatshirt",
-   "type": "свитшот",
-   "price": 3600,
-   "cond": "new",
-   "status": "in",
    "desc": "",
+   "photos": [
+    "img/gucci-gucci-chateau-marmont-sweatshirt-ibv9-muazjihv0.jpg",
+    "img/gucci-gucci-chateau-marmont-sweatshirt-ibv9-muazjihv1.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -44,22 +41,22 @@
      "av": true
     }
    ],
-   "photos": [
-    "img/gucci-gucci-chateau-marmont-sweatshirt-ibv9-muazjihv0.jpg",
-    "img/gucci-gucci-chateau-marmont-sweatshirt-ibv9-muazjihv1.jpg"
-   ],
+   "type": "свитшот",
+   "cond": "new",
+   "status": "in",
    "tgPost": "https://t.me/clotherapy/412",
+   "id": "gucci-gucci-chateau-marmont-sweatshirt-ibv9",
+   "brand": "Gucci",
+   "name": "Gucci Chateau Marmont Sweatshirt",
+   "price": 3600,
    "payUrl": ""
   },
   {
-   "id": "gucci-gucci-chateau-marmont-hoodie-38e7",
-   "brand": "Gucci",
-   "name": "Gucci Chateau Marmont Hoodie",
-   "type": "худи",
-   "price": 4200,
-   "cond": "new",
-   "status": "in",
    "desc": "",
+   "photos": [
+    "img/gucci-gucci-chateau-marmont-hoodie-38e7-muazjihv0.jpg",
+    "img/gucci-gucci-chateau-marmont-hoodie-38e7-muazjihv1.jpg"
+   ],
    "sizes": [
     {
      "s": "M",
@@ -67,11 +64,14 @@
      "av": true
     }
    ],
-   "photos": [
-    "img/gucci-gucci-chateau-marmont-hoodie-38e7-muazjihv0.jpg",
-    "img/gucci-gucci-chateau-marmont-hoodie-38e7-muazjihv1.jpg"
-   ],
+   "type": "худи",
+   "cond": "new",
+   "status": "in",
    "tgPost": "https://t.me/clotherapy/414",
+   "id": "gucci-gucci-chateau-marmont-hoodie-38e7",
+   "brand": "Gucci",
+   "name": "Gucci Chateau Marmont Hoodie",
+   "price": 4200,
    "payUrl": ""
   },
   {
@@ -132,7 +132,7 @@
    ],
    "type": "лонгслив",
    "cond": "new",
-   "status": "in",
+   "status": "sold",
    "tgPost": "https://t.me/clotherapy/306",
    "id": "hg-skullberry-ls",
    "brand": "Hysteric Glamour",
