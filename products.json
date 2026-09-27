@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-09-23",
+ "updated": "2026-09-27",
  "settings": {
   "shopName": "clotherapy",
   "tg": "godselection",
@@ -263,7 +263,7 @@
    ],
    "type": "ветровка",
    "cond": "new",
-   "status": "in",
+   "status": "sold",
    "tgPost": "https://t.me/clotherapy/351",
    "id": "undercover-chuuut-windbreaker",
    "brand": "Undercover",
